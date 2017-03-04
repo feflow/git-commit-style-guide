@@ -12,4 +12,4 @@ Implement big integer addition function with javascript
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
 
 ### Want to use?
-* [Git commit standard]()
+* [Git commit standard](https://github.com/cpselvis/commit-message-test-project/blob/master/doc/GIT_COMMIT_STANDARD.md)
